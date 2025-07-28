@@ -13,25 +13,25 @@ with st.sidebar:
 
     col1, col2 = st.columns([1, 4])
     with col1:
-        st.image("./Imagem_Vini.png", width=40)
+        st.image("https://github.com/Samir-Ninja-1988/learning/tree/main/ProjetoFinalv7/Imagem_Vini.png", width=40)
     with col2:
         st.text("Vinicius Ferreira Aguiar - \nBackend")
 
     col1, col2 = st.columns([1, 4])
     with col1:
-        st.image("./Imagem_Claudio.jpg", width=40)
+        st.image("https://github.com/Samir-Ninja-1988/learning/tree/main/ProjetoFinalv7/Imagem_Claudio.jpg", width=40)
     with col2:
         st.text("Claudio Regis de Lima Cruz - \nCientista de Dados")
 
     col1, col2 = st.columns([1, 4])
     with col1:
-        st.image("./Imagem_Samir.jpg", width=40)
+        st.image("https://github.com/Samir-Ninja-1988/learning/tree/main/ProjetoFinalv7/Imagem_Samir.jpg", width=40)
     with col2:
         st.text("Samir Saraiva Machado - \nFrontend")
 
     col1, col2 = st.columns([1, 4])
     with col1:
-        st.image("./Imagem_Lucas.png", width=40)
+        st.image("https://github.com/Samir-Ninja-1988/learning/tree/main/ProjetoFinalv7/Imagem_Lucas.png", width=40)
     with col2:
         st.text("Lucas Cisne Cunha - \nEngenharia de Dados")
 
